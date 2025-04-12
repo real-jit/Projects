@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f202c6cc21f39007406f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QMap2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QMap2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMap2-Debug-b276ab328eb523a0094f.json",
+					"name" : "QMap2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMap2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMap2_autogen-Debug-bc0f828cad434d646ec8.json",
+					"name" : "QMap2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMap2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMap2_autogen_timestamp_deps-Debug-8a98d94693e642f010b8.json",
+					"name" : "QMap2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "A:/Users/musta/Documents/QMap2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "A:/Users/musta/Documents/QMap2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
