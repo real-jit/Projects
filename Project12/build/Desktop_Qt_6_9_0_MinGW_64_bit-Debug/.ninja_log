@@ -1,0 +1,27 @@
+# ninja log v6
+27	1189	7659951409871567	MyProject_autogen/timestamp	fa0e33393af357c5
+27	1189	7659951409871567	MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+27	1189	7659951409871567	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/timestamp	fa0e33393af357c5
+27	1189	7659951409871567	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+1200	3478	7659951410938712	CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.obj	1c65d42a2bdc9522
+1203	3554	7659951410968634	CMakeFiles/MyProject.dir/main.cpp.obj	191e142b19d88d99
+33	251	7659951636796093	MyProject_autogen/timestamp	fa0e33393af357c5
+33	251	7659951636796093	MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+33	251	7659951636796093	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/timestamp	fa0e33393af357c5
+33	251	7659951636796093	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+252	2584	7659951638990218	CMakeFiles/MyProject.dir/mainwindow.cpp.obj	28b1535547c96524
+2584	2836	7659951662308019	MyProject.exe	e2b71a5de9a88dd7
+30	245	7659965609474635	MyProject_autogen/timestamp	fa0e33393af357c5
+30	245	7659965609474635	MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+30	245	7659965609474635	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/timestamp	fa0e33393af357c5
+30	245	7659965609474635	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+247	2594	7659965611630857	CMakeFiles/MyProject.dir/mainwindow.cpp.obj	28b1535547c96524
+2594	2836	7659965635100304	MyProject.exe	e2b71a5de9a88dd7
+35	1230	7660049318559887	MyProject_autogen/timestamp	fa0e33393af357c5
+35	1230	7660049318559887	MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+35	1230	7660049318559887	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/timestamp	fa0e33393af357c5
+35	1230	7660049318559887	A:/Users/musta/Documents/MyProject/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MyProject_autogen/mocs_compilation.cpp	fa0e33393af357c5
+1234	3702	7660049319547248	CMakeFiles/MyProject.dir/main.cpp.obj	191e142b19d88d99
+1231	3720	7660049319517330	CMakeFiles/MyProject.dir/MyProject_autogen/mocs_compilation.cpp.obj	1c65d42a2bdc9522
+1237	3971	7660049319577167	CMakeFiles/MyProject.dir/mainwindow.cpp.obj	28b1535547c96524
+3972	4253	7660049346923705	MyProject.exe	e2b71a5de9a88dd7

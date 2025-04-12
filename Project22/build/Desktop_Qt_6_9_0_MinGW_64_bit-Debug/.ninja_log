@@ -1,0 +1,23 @@
+# ninja log v6
+25	1314	7659969913277953	Project22_autogen/timestamp	a9cbecd05e7d465c
+25	1314	7659969913277953	Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+25	1314	7659969913277953	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/timestamp	a9cbecd05e7d465c
+25	1314	7659969913277953	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+1321	3686	7659969914394961	CMakeFiles/Project22.dir/Project22_autogen/mocs_compilation.cpp.obj	d941134c4724357c
+1324	3750	7659969914414911	CMakeFiles/Project22.dir/main.cpp.obj	37b3f40c77cb0a30
+1327	4014	7659969914444834	CMakeFiles/Project22.dir/mainwindow.cpp.obj	c21d2786e7ea3c82
+4018	4283	7659969941352828	Project22.exe	54216debf3bce77d
+33	235	7660047613534849	Project22_autogen/timestamp	a9cbecd05e7d465c
+33	235	7660047613534849	Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+33	235	7660047613534849	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/timestamp	a9cbecd05e7d465c
+33	235	7660047613534849	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+236	2835	7660047615559437	CMakeFiles/Project22.dir/mainwindow.cpp.obj	c21d2786e7ea3c82
+2835	3093	7660047641539929	Project22.exe	54216debf3bce77d
+29	1015	7660049475408645	Project22_autogen/timestamp	a9cbecd05e7d465c
+29	1015	7660049475408645	Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+29	1015	7660049475408645	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/timestamp	a9cbecd05e7d465c
+29	1015	7660049475408645	A:/Users/musta/Documents/Project22/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project22_autogen/mocs_compilation.cpp	a9cbecd05e7d465c
+1016	3205	7660049476331570	CMakeFiles/Project22.dir/Project22_autogen/mocs_compilation.cpp.obj	d941134c4724357c
+1019	3248	7660049476351519	CMakeFiles/Project22.dir/main.cpp.obj	37b3f40c77cb0a30
+1021	3490	7660049476381440	CMakeFiles/Project22.dir/mainwindow.cpp.obj	c21d2786e7ea3c82
+3490	3733	7660049501065397	Project22.exe	54216debf3bce77d

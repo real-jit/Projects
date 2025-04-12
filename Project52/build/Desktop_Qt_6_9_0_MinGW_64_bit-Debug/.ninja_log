@@ -1,0 +1,9 @@
+# ninja log v6
+27	1273	7660720247996302	Project52_autogen/timestamp	763a0f81beabf49
+27	1273	7660720247996302	Project52_autogen/mocs_compilation.cpp	763a0f81beabf49
+27	1273	7660720247996302	A:/Users/musta/Documents/Project52/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project52_autogen/timestamp	763a0f81beabf49
+27	1273	7660720247996302	A:/Users/musta/Documents/Project52/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project52_autogen/mocs_compilation.cpp	763a0f81beabf49
+1287	3824	7660720249113314	CMakeFiles/Project52.dir/main.cpp.obj	ee7204b3dd57702
+1284	3884	7660720249083394	CMakeFiles/Project52.dir/Project52_autogen/mocs_compilation.cpp.obj	1fb36c9a43794532
+1290	4144	7660720249143233	CMakeFiles/Project52.dir/mainwindow.cpp.obj	70c52f31077f745c
+4149	4398	7660720277716778	Project52.exe	f3e84370165926ac

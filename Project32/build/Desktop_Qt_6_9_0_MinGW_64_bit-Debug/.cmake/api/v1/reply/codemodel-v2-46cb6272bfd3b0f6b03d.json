@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f92ab16696c8ce1cd8e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project32",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project32-Debug-1948552f4398cf954061.json",
+					"name" : "Project32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project32_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project32_autogen-Debug-88de60e2438767034d6c.json",
+					"name" : "Project32_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project32_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project32_autogen_timestamp_deps-Debug-f6fa28d941f340aa686f.json",
+					"name" : "Project32_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "A:/Users/musta/Documents/Project32/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "A:/Users/musta/Documents/Project32"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

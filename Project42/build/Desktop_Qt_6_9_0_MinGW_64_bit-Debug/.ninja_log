@@ -1,0 +1,15 @@
+# ninja log v6
+24	1281	7660709005089021	Project42_autogen/timestamp	2397214215715362
+24	1281	7660709005089021	Project42_autogen/mocs_compilation.cpp	2397214215715362
+24	1281	7660709005089021	A:/Users/musta/Documents/Project42/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project42_autogen/timestamp	2397214215715362
+24	1281	7660709005089021	A:/Users/musta/Documents/Project42/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project42_autogen/mocs_compilation.cpp	2397214215715362
+1291	3816	7660709006216005	CMakeFiles/Project42.dir/main.cpp.obj	b0d2a9463a66ea4b
+1288	3852	7660709006186099	CMakeFiles/Project42.dir/Project42_autogen/mocs_compilation.cpp.obj	7ca316671d9f2238
+1294	4051	7660709006245925	CMakeFiles/Project42.dir/mainwindow.cpp.obj	eb0d97105d7298bb
+4051	4300	7660709033812170	Project42.exe	d46cfa374c1d335d
+30	244	7660709755209244	Project42_autogen/timestamp	2397214215715362
+30	244	7660709755209244	Project42_autogen/mocs_compilation.cpp	2397214215715362
+30	244	7660709755209244	A:/Users/musta/Documents/Project42/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project42_autogen/timestamp	2397214215715362
+30	244	7660709755209244	A:/Users/musta/Documents/Project42/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project42_autogen/mocs_compilation.cpp	2397214215715362
+245	2542	7660709757361613	CMakeFiles/Project42.dir/mainwindow.cpp.obj	eb0d97105d7298bb
+2542	2781	7660709780322101	Project42.exe	d46cfa374c1d335d

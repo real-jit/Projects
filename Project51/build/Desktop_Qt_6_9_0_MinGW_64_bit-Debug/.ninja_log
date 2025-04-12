@@ -1,0 +1,15 @@
+# ninja log v6
+25	1075	7660716161022703	Project51_autogen/timestamp	55a8356334497529
+25	1075	7660716161022703	Project51_autogen/mocs_compilation.cpp	55a8356334497529
+25	1075	7660716161022703	A:/Users/musta/Documents/Project51/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project51_autogen/timestamp	55a8356334497529
+25	1075	7660716161022703	A:/Users/musta/Documents/Project51/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project51_autogen/mocs_compilation.cpp	55a8356334497529
+1082	3388	7660716162040038	CMakeFiles/Project51.dir/Project51_autogen/mocs_compilation.cpp.obj	6d1ddbc17d23790
+1085	3446	7660716162069906	CMakeFiles/Project51.dir/main.cpp.obj	1371c01811407c4a
+1088	3641	7660716162099591	CMakeFiles/Project51.dir/mainwindow.cpp.obj	3e58f4f7adcdd80d
+3646	3890	7660716187671389	Project51.exe	b27dea1aa0f1f0b4
+31	217	7660716676611638	Project51_autogen/timestamp	55a8356334497529
+31	217	7660716676611638	Project51_autogen/mocs_compilation.cpp	55a8356334497529
+31	217	7660716676611638	A:/Users/musta/Documents/Project51/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project51_autogen/timestamp	55a8356334497529
+31	217	7660716676611638	A:/Users/musta/Documents/Project51/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Project51_autogen/mocs_compilation.cpp	55a8356334497529
+218	2703	7660716678492839	CMakeFiles/Project51.dir/mainwindow.cpp.obj	3e58f4f7adcdd80d
+2703	2956	7660716703336372	Project51.exe	b27dea1aa0f1f0b4
