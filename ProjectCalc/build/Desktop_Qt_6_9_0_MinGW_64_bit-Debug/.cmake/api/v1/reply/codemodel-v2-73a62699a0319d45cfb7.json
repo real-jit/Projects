@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6ae003046954dcf99c60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProjectCalc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectCalc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectCalc-Debug-97da9f249536fcfef32d.json",
+					"name" : "ProjectCalc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectCalc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectCalc_autogen-Debug-d874af8364f2e5e3d34c.json",
+					"name" : "ProjectCalc_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectCalc_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectCalc_autogen_timestamp_deps-Debug-932d3db61f4e26243619.json",
+					"name" : "ProjectCalc_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "A:/Users/musta/Documents/ProjectCalc/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "A:/Users/musta/Documents/ProjectCalc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
